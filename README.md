@@ -1,4 +1,4 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mukunda Mondal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mukunda Mondal
 ======================================================================================================================================
 
 Software Developer
@@ -8,7 +8,7 @@ I love code!!
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [mondalmukunda2000@gmail.com](mailto:mondalmukunda2000@gmail.com)
-* 🚀  I'm currently working on [Suduku solver](http://github.com/Mukunda2000/SUDOKU-SOLVER)
+* 🚀  I'm currently working on [Weather app](http://github.com/Mukunda2000/Weather-app)
 * 🧠  I'm learning React, Anglular, Node.js, Tailwind CSS, MongoDb
 * 🤝  I'm open to collaborating on I am open to do any other development projects in software as well as web
 * ⚡  I love to play cricket, Badminton, online video games
